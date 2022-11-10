@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+
+}
+
+.titel {
+color: black;
+text-align: center;
+font-size: 100px;
+}
+
+.bodyimage {
+    width: 500px;
+    height: auto;
+}
+
+.center {
+text-align: center;
+}
